@@ -14,7 +14,7 @@ A simple and colorful JavaScript logging utility with timestamps.
 ## Installation
 
 ```bash
-npm install pretty-log-js
+npm install @zero066/pretty-log-js
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ import {
     warning,
     info,
     custom
-} from "pretty-log-js";
+} from "@zero066/pretty-log-js";
 
 success("User registered successfully!");
 error("Something went wrong!");
